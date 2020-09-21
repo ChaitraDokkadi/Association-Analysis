@@ -14,3 +14,8 @@ Investigated frequent itemsets from Gene Expressions dataset by implementing Pri
   4. To get the rules generated for queries in the format of any of the three templates mentioned in the Template.pdf, enter the query in the cmd.
      Example: 'asso_rule.template1("RULE", "ANY", ['G59_Up'])'
   5. To quit the program in the cmd, enter 'exit' in the cmd  
+## Example results from PCA, SVD, and t-SNE
+1. PCA ![PCA-Img](https://github.com/ChaitraDokkadi/Association-Analysis/blob/master/Images/PCA_pca_a.png)
+2. SVD ![SVD-Img](https://github.com/ChaitraDokkadi/Association-Analysis/blob/master/Images/SVD_pca_a.png)
+3. PCA ![t-SNE-Img](https://github.com/ChaitraDokkadi/Association-Analysis/blob/master/Images/t-SNE_pca_a.png)
+
